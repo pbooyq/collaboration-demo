@@ -1,2 +1,2 @@
 Collaboration Demo Project
-Version 1.1 - Feature A
+Version 1.1 - Conflict Resolved
